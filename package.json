@@ -1,0 +1,18 @@
+{
+  "name": "cesium-threejs-integration",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "cesium": "^1.117.0",
+    "three": "^0.164.1",
+    "vite": "^5.2.11",
+    "vite-plugin-cesium": "^1.2.22"
+  },
+  "devDependencies": {
+    "@types/three": "^0.164.0",
+    "typescript": "^5.4.5"
+  }
+}
